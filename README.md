@@ -35,3 +35,5 @@
 
 #### Bonus: The player can “spam” the spacebar key
 - Solution: We should add a cooldown as given in the [PlayerControllerX.cs](Assets/Challenge%202/Scripts/PlayerControllerX.cs)
+
+> Thank you for reading this far!
